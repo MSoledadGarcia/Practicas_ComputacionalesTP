@@ -12,4 +12,16 @@ ________________________________________________________________________________
 
 A continuación, se proporcionan 3 arrays diferentes de numpy en formato .txt. Subir estos archivos a un script de Python y analizar la forma de cada uno de ellos. Notará que son matrices de 2xN, es decir, cada matriz está compuesta por N puntos, donde las componentes x e y de los puntos están dadas por la primera y segunda fila. Realizar un gráfico (plot) para visualizar cómo se distribuyen los puntos correspondientes a cada una de las matrices en el espacio. Notará que las figuras resultantes son bien conocidas, algunas de las cuales pertenecen a la familia de las secciones cónicas.
 
+__________________________________________________________________________________________________________________________________________
 
+# Área de un círculo:
+
+![image](https://github.com/user-attachments/assets/d8ca8757-e6e4-4015-b4e6-5b06e205b882)
+
+![image](https://github.com/user-attachments/assets/6934ee93-781f-4215-9db4-039e35add483)
+
+![image](https://github.com/user-attachments/assets/201741e7-73e3-42f6-a409-6d808e8c2279)
+
+![image](https://github.com/user-attachments/assets/74366a06-7a85-4ee8-824b-03c1dc23ddf0)
+
+# Área de un triángulo:
