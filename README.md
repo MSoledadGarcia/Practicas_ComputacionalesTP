@@ -25,3 +25,24 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/74366a06-7a85-4ee8-824b-03c1dc23ddf0)
 
 # Área de un triángulo:
+
+![image](https://github.com/user-attachments/assets/f6dfa3ee-6e0c-4607-987f-fa411acc4309)
+
+![image](https://github.com/user-attachments/assets/3443cdf1-fa82-4fb9-acfb-042328fdef59)
+
+![image](https://github.com/user-attachments/assets/671bb39d-9141-446d-b12a-b6fb6185da5e)
+
+
+# Área de un paralelogramo
+
+![image](https://github.com/user-attachments/assets/72b4dc17-7739-43bd-bada-4e2a885abf9d)
+
+![image](https://github.com/user-attachments/assets/aa2924fc-efb1-4fe7-b3d5-7805582834ab)
+
+![image](https://github.com/user-attachments/assets/b2f43f0d-d895-46df-8b12-e6548b8a442a)
+
+
+
+
+
+
